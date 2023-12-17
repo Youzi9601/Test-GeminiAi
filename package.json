@@ -1,0 +1,15 @@
+{
+  "name": "test-geminiai",
+  "description": "Google Gemini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.2",
+    "dotenv": "^16.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "柚子 Youzi",
+  "license": "MIT"
+}
